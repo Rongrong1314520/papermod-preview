@@ -1,0 +1,25 @@
+{
+  "background_color": "#f2efe9",
+  "description": "蟲天子的個人主頁：關於我、部落格與精選開源項目。",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any maskable",
+      "sizes": "192x192",
+      "src": "icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any maskable",
+      "sizes": "512x512",
+      "src": "icon-512.png",
+      "type": "image/png"
+    }
+  ],
+  "name": "蟲天子的個人主頁",
+  "orientation": "portrait",
+  "scope": "/papermod-preview/",
+  "short_name": "蟲天子",
+  "start_url": "/papermod-preview/",
+  "theme_color": "#ff5c00"
+}
